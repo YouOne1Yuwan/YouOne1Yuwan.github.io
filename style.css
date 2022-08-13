@@ -1,0 +1,50 @@
+
+
+.jumbotron {
+    padding-top:+6rem;
+    background-color: #a2d9ff;
+    }
+    
+.rounded-circle {
+    box-shadow: -1px 1px 44px -9px rgba(255,255,255,0.75);
+    -webkit-box-shadow: -1px 1px 44px -9px rgba(255,255,255,0.75);
+    -moz-box-shadow: -1px 1px 44px -9px rgba(255,255,255,0.75);
+    }
+
+.display-4 {
+    margin-top: 0.3cm;
+    margin-bottom: 0.0cm;
+    font-size: 40px;
+    font-family:monospace;
+    color: rgb(44, 154, 194);
+    text-shadow: 3px 3px 0px #000000;
+}
+
+.lead {
+    font-size: 20px;
+    margin-bottom: 0cm;
+    
+}
+
+#about {
+    margin-top: -5px;
+    background-color: #ffffff;
+}
+
+#projects {
+    margin-top: -20px;
+    background-color: #a2d9ff;
+}
+
+.text-white {
+    margin-top: -5px;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#contact {
+    padding-top: 5rem;
+}
+
